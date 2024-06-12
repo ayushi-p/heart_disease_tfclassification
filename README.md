@@ -1,4 +1,4 @@
-#heart disease classification using tensor flow
+# heart disease classification using tensor flow
 
 Heart disease prediction is crucial for effective clinical management, and therefore to address the limitations of conventional approaches, researchers are actively building predictive models using artificial neural networks and machine learning techniques. These models can analyze vast medical data, offering comparable accuracy to traditional methods while expediting diagnostic processes. By leveraging extensive medical datasets, machine learning algorithms can automate intricate data analysis while continually refining their predictive accuracy. They show promise in navigating the complexities of heart disease diagnosis and improving patient outcomes.
 
